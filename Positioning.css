@@ -1,0 +1,42 @@
+#numBox {
+    position: absolute;
+    top:120px;
+    left: 20px;
+}
+
+#opBox {
+    position: absolute;
+    top:160px;
+    left : 20px;
+}
+
+#numBox2{
+    position: absolute;
+    top:200px;
+    left : 20px;
+}
+
+#calc{
+    position: absolute;
+    top:240px;
+    left:20px;
+}
+
+#captions{
+    position: absolute;
+    top:95px;
+    left:220px;
+    line-height: 2.5;
+}
+
+#disp{
+    position: absolute;
+    left: 20px;
+}
+
+#instructions{
+    position: absolute;
+    left: 20px;
+    top : 65px;
+}
+
