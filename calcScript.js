@@ -8,7 +8,7 @@ function calc(){
         op = parseInt(document.getElementById("opBox").value);
     }
     catch{
-        return "undefined"
+        return "undefined";
     }
     if(op === 0){
         return num1 + num2;
